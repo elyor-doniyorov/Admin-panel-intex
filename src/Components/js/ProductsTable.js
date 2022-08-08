@@ -3,8 +3,8 @@ export default function ProductsTable() {
         <>
             <div className="products-table">
                 <div>
-                    <div></div>
-                    <div></div>
+                    <div>aasadfxcc</div>
+                    <div>klbbjhnklj;</div>
                 </div>
             </div>
         </>
